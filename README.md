@@ -1,2 +1,2 @@
-![Image Alt Text](https://raw.githubusercontent.com/GayasuddinMohd/Exploratory-Data-Analysis-on-Netflix/main/Netflix%20Image.webp)
+![Image Alt Text](https://github.com/GayasuddinMohd/Exploratory-Data-Analysis-on-Netflix/blob/main/Netflix%20Image.png?raw=true)
 
