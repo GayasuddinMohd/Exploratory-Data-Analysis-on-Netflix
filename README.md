@@ -1,4 +1,4 @@
-![Image Alt Text](https://github.com/GayasuddinMohd/Exploratory-Data-Analysis-on-Netflix/blob/main/Netflix%20Image.png?raw=true)
+![Image Alt Text](https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5.fit_scale.size_1028x578.v1582751026.png)
 
 # ❀  Netflix  ❀
 Netflix is an American subscription video on-demand over-the-top streaming service owned and operated by Netflix, Inc. The service primarily distributes films and television series produced by the media company of the same name from various genres, and it is available internationally in multiple languages.
